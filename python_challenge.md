@@ -8,3 +8,4 @@ The idea of this challenge is to practice and improve our python skills on a dai
 |-------|----|
 |0127   |✅  |
 |0208   |✅  |
+|0210   |✅  |
